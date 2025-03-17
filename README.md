@@ -1,6 +1,7 @@
 # Fancy Counter (React) Project
 
- <img>
+ <img width="1920" alt="Screenshot 2025-03-17 at 3 58 34 PM" src="https://github.com/user-attachments/assets/9e54eb6b-d969-49cc-95ec-9ec59f0f9680" />
+
  
  ## Motivation
  
@@ -11,9 +12,9 @@
  The website is a simple counter that stops at the count of 5. Once the counter hits 5, it will disable the decremenet and incremenet operations until the user presses the reset button. Additionally, the counter will always be nonnegative meaning that the counter will not count below 0.
  
  ## Video
- 
- <video>
- 
+
+https://github.com/user-attachments/assets/b0a96afb-f301-4346-a808-29d8625ef8a0
+
  ## Tech Stack
  
  ReactJS
