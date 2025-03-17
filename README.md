@@ -19,8 +19,8 @@
  ReactJS
  
  ## How To Run The Website
- 
- Download Live Server on the VS Code extensions page and start a live server on the index.html file!
+
+ Simply run "npm i" to install all dependencies from npm and run the local server with "npm run dev"
  
  ## Disclaimer
  
